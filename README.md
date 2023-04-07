@@ -1,9 +1,10 @@
 
 # JoyReactor Improved - Image Viewer
-Заменяет стандартное окно сайта JoyReactor для просмотра изображений  на более удобное и функциональное. Что сделает просмотр изображений более приятным и комфортным.
+Заменяет стандартное окно сайта JoyReactor.cc для просмотра изображений  на более удобное и функциональное. Что сделает просмотр изображений более приятным и комфортным.
 
 ## Установка
-[Браузер на основе Chromium]()
+#### [для браузера на основе Chromium](https://github.com/Melserval/JoyReactorImproved-ImageViewer-Chromium#readme)
+#### [для браузера Firefox](https://github.com/Melserval/JoyReactorImproved-ImageViewer-Firefox#readme)
 
 ## Использование
 ### Браузер компьютера
